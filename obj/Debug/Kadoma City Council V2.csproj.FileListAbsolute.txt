@@ -1,0 +1,25 @@
+C:\Users\Carlos\source\repos\Kadoma City Council V2\bin\Debug\Kadoma City Council V2.exe.config
+C:\Users\Carlos\source\repos\Kadoma City Council V2\bin\Debug\Kadoma City Council V2.exe
+C:\Users\Carlos\source\repos\Kadoma City Council V2\bin\Debug\Kadoma City Council V2.pdb
+C:\Users\Carlos\source\repos\Kadoma City Council V2\bin\Debug\LollipoUi.dll
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma_City_Council_V2.AddUser.resources
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma_City_Council_V2.AdminLogin.resources
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma_City_Council_V2.AdminMainScreen.resources
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma_City_Council_V2.AdminMainUserControl.resources
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma_City_Council_V2.LoginForm.resources
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma_City_Council_V2.mainmenucontrol.resources
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma_City_Council_V2.MainScreen.resources
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma_City_Council_V2.MapUserControl.resources
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma_City_Council_V2.OrderGrave.resources
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma_City_Council_V2.Properties.Resources.resources
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma_City_Council_V2.Searchusercontrol.resources
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma City Council V2.csproj.GenerateResource.cache
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma City Council V2.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma City Council V2.csproj.CopyComplete
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma City Council V2.exe
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma City Council V2.pdb
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma_City_Council_V2.AllGraves.resources
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma_City_Council_V2.HelpUserControl.resources
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma_City_Council_V2.DeleteUser.resources
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma_City_Council_V2.AllUsers.resources
+C:\Users\Carlos\source\repos\Kadoma City Council V2\obj\Debug\Kadoma City Council V2.csprojAssemblyReference.cache
